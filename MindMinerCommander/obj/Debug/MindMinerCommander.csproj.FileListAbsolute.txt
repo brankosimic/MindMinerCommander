@@ -1,0 +1,9 @@
+C:\Users\Branko\source\repos\MindMinerCommander\MindMinerCommander\obj\Debug\MindMinerCommander.Properties.Resources.resources
+C:\Users\Branko\source\repos\MindMinerCommander\MindMinerCommander\obj\Debug\MindMinerCommander.csproj.GenerateResource.cache
+C:\Users\Branko\source\repos\MindMinerCommander\MindMinerCommander\obj\Debug\MindMinerCommander.csproj.CoreCompileInputs.cache
+C:\Users\Branko\source\repos\MindMinerCommander\MindMinerCommander\bin\Debug\MindMinerCommander.exe.config
+C:\Users\Branko\source\repos\MindMinerCommander\MindMinerCommander\bin\Debug\MindMinerCommander.exe
+C:\Users\Branko\source\repos\MindMinerCommander\MindMinerCommander\bin\Debug\MindMinerCommander.pdb
+C:\Users\Branko\source\repos\MindMinerCommander\MindMinerCommander\obj\Debug\MindMinerCommander.exe
+C:\Users\Branko\source\repos\MindMinerCommander\MindMinerCommander\obj\Debug\MindMinerCommander.pdb
+C:\Users\Branko\source\repos\MindMinerCommander\MindMinerCommander\obj\Debug\MindMinerCommander.csprojAssemblyReference.cache
